@@ -32,7 +32,7 @@ Make sure to install the following dependencies before running the code:
 - warnings
 - threading
 
-**Note:** You can install the required Python packages by running `pip install -r requirements.txt`.
+**Note:** You can install the required Python packages by running `pip install -r requirements.txt`. <br/>
 **Note:** Error messages should disappear when you run the code. (I just couldn't figure out how to hide them sorry)
 
 Feel free to reach out if you have any questions or encounter any issues while using this code.
